@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
 }
+
 header
 {
     width: 13%;
@@ -39,6 +40,7 @@ header ul
     padding: 0;
     margin-top: 40px;
 }
+
 header li
 {
     margin-bottom: 15px;
@@ -127,6 +129,7 @@ main{
     overflow: hidden;
     position: relative;
 }
+
 #fotos img
 {
     width: 100%;
@@ -335,6 +338,7 @@ main{
     font-size: 15px;
     color: rgb(255, 97, 97);
 }
+
 #blog h4 
 {   
         margin-top: 5%;
@@ -356,12 +360,16 @@ main{
 
     color:aliceblue
 }
-#SEND h1{
+
+#SEND h1
+{
     margin-top: 20vh;
     margin-left: 32vh;
     font-size: 49px;
 }
-#SEND a{
+
+#SEND a
+{
     margin-top: 10%;
     margin-left:32vh;
     display: inline-block;
@@ -375,7 +383,9 @@ main{
     text-decoration: none;
     
 }
-#form{
+
+#form
+{
     margin-top: 10%;
     margin-left: 32vh ;
     display: flex;
@@ -383,18 +393,22 @@ main{
     flex-direction: column;
     justify-content: space-between;
 }
-#letterform{
+
+#letterform
+{
     margin-top: 10%;
     font-size: 20px;
 }
-#letterform2{
+
+#letterform2
+{
     margin-top: 10%;
     font-size: 20px;
 }
 
 
-#letterform input{
-
+#letterform input
+{
      width: 100vh;
      border-left: 0;
      border-right: 0;
@@ -403,8 +417,8 @@ main{
     
 }
 
-#letterform2 input{
-
+#letterform2 input
+{
     width: 50vh;
     border-left: 0;
     border-right: 0;
@@ -413,15 +427,15 @@ main{
    
 }
 
-#letterform MESSAGE input{
-
+#letterform MESSAGE input
+{
     width: 80vh;
     height: 100vh;
-
     background-color: rgb(36, 36, 36);
 }
 
-#prim-parte{
+#prim-parte
+{
     display: flex;
     width: 1vh;
 }
